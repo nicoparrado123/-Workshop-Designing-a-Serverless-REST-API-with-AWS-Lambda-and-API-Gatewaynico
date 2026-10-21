@@ -1,0 +1,11 @@
+{
+  "httpMethod": "GET",
+  "path": "/orders/ORD-001",
+  "pathParameters": {
+    "id": "ORD-001"
+  },
+  "queryStringParameters": null,
+  "headers": {},
+  "body": null,
+  "isBase64Encoded": false
+}
