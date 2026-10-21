@@ -1,5 +1,11 @@
 # Orders API — Serverless REST API Workshop
 
+## Demo Video
+
+[Watch on YouTube](https://youtu.be/2ert-8tQjrs)
+
+---
+
 ## Project Structure
 
 ```
